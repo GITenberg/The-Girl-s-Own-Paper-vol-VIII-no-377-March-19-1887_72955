@@ -1,0 +1,28 @@
+_repo: The-Girl-s-Own-Paper-vol-VIII-no-377-March-19-1887_72955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2024-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72955'
+language: en
+pgterms:marc905: 20051018110503klickmann
+pgterms:marc906: '1880'
+pgterms:marc907: GB
+production_note: Susan Skinner and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLondon :$bReligious Tract Society, $c1880, pubdate 1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Girl's Own Paper, vol. VIII., no. 377, March 19, 1887
+url: http://www.gutenberg.org/ebooks/72955
